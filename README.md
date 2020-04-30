@@ -1,7 +1,7 @@
 # Movie recommender engine based on collaborative filtering 
 
 Dataset : Movielens 100K<br/>
-Dataset link : [Dataset][https://grouplens.org/datasets/movielens/100k/]<br/>
+Dataset link : [Dataset](https://grouplens.org/datasets/movielens/100k/)<br/>
 Language : python3<br/>
 Libraries : pyspark, numpy, scipy, sklearn, pandas, os<br/>
 Code commenting/ Documentation : Partially Done<br/>
